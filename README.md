@@ -35,6 +35,7 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM :
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -214,7 +215,9 @@ Publish the website in the given URL.
     <footer> <p class="by"><B>Developed by : J.Rakshitha Devi </B></p></footer>
 </body>
 </html>
+```
 ### Output:
+![image](https://user-images.githubusercontent.com/94165326/149628844-ddf745f3-9ac0-4d2e-a66c-bbeff0eb10b6.png)
 
 
 
