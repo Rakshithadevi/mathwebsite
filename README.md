@@ -215,9 +215,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ## OUTPUT:
-![output]C:\Users\raksh\Downloads\mathwebsite\calculations\static\maths calculation 1.png
-
-
+![image](https://user-images.githubusercontent.com/94165326/149628353-95c4abe5-f4d9-43d4-b45a-fd897d9e2b98.png)
 
 
 ## Result:
