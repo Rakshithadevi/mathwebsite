@@ -215,7 +215,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ### OUTPUT:
-![image](https://user-images.githubusercontent.com/94165326/149628554-f62cae61-2ea8-4014-a967-86b1a9568a83.png)
+![image](https://user-images.png)
 
 
 ### Result:
