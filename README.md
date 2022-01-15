@@ -215,7 +215,7 @@ Publish the website in the given URL.
 </body>
 </html>
 ### OUTPUT:
-![image](https://user-images.png)
+
 
 
 ### Result:
