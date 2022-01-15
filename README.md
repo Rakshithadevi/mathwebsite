@@ -215,7 +215,8 @@ Publish the website in the given URL.
 </body>
 </html>
 ## OUTPUT:
-![2022-01-15 (3)](https://user-images.githubusercontent.com/94165326/149610226-07338ee2-c458-4a51-be18-af82b5def469.png)
+![maths calculation 1](https://user-images.githubusercontent.com/94165326/149610278-0b9a7aab-4f19-48a1-a172-ea88dc18bd7f.png)
+
 
 
 
