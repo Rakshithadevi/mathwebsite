@@ -214,8 +214,10 @@ Publish the website in the given URL.
     <footer> <p class="by"><B>Developed by : J.Rakshitha Devi </B></p></footer>
 </body>
 </html>
-## OUTPUT:
+### OUTPUT:
+![image](https://user-images.githubusercontent.com/94165326/149628554-f62cae61-2ea8-4014-a967-86b1a9568a83.png)
 
-## Result:
+
+### Result:
 
 Thus a website is designed to perform mathematical calculations in the client side.
